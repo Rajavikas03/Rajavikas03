@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajavikas03
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flask api
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on mail (srajavikas.2021eee@citchennai.net || rajavikas00007@gmail.com)
 
